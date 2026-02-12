@@ -1,7 +1,6 @@
-# Analises-Exploratorias-Airbnb-Buenos-Aires
-Notebooks produzidos na matéria de análise exploratória, do curso de ciência de dados do Infnet.
-
 # 📊 Análise Exploratória de Dados – Airbnb Buenos Aires
+
+Notebooks produzidos na matéria de análise exploratória, do curso de ciência de dados do Infnet.
 
 Este repositório apresenta um estudo de **Análise Exploratória de Dados (EDA)** aplicado a anúncios do **Airbnb na cidade de Buenos Aires**. O trabalho foi desenvolvido com o objetivo de compreender padrões de precificação, disponibilidade, avaliações e características das acomodações, utilizando técnicas estatísticas, análises temporais e modelos de regressão.
 
